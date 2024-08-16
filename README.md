@@ -41,5 +41,36 @@ To run these applications, you need to have Python installed on your system. Add
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
-   cd your-repo-name
+   git clone https://github.com/SiddahantY/Python-Development.git
+   cd Python-Development
+## Install Dependencies
+pip install guizero
+## Usage
+Each application is a standalone Python script. You can run them directly from the command line:
+
+### To-Do List
+
+bash
+Copy code
+python todolist.py
+
+### Calculator
+
+bash
+Copy code
+python calculator.py
+
+### Password Generator
+
+bash
+Copy code
+python password_generator.py
+
+## License
+This project is licensed under the MIT License. See the LICENSE file for details.
+
+## Contact
+If you have any questions or suggestions, feel free to reach out:
+
+## Email: siddhantyadav750@gmail.com
+## GitHub: SiddahantY
